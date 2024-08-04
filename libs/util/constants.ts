@@ -17,7 +17,7 @@ export const majorCitiesLocationInfo: LocationInfo[] = [
   },
   {
     placeName: 'Budgam, Jammu & Kashmir',
-    latLng: [33.9349, 74.6400],
+    latLng: [33.9349, 74.64],
   },
   {
     placeName: 'Awantipora, Jammu & Kashmir',
@@ -25,7 +25,7 @@ export const majorCitiesLocationInfo: LocationInfo[] = [
   },
   {
     placeName: 'Kulgam, Jammu & Kashmir',
-    latLng: [33.6450, 75.0180],
+    latLng: [33.645, 75.018],
   },
   {
     placeName: 'Kupwara, Jammu & Kashmir ',
@@ -33,7 +33,7 @@ export const majorCitiesLocationInfo: LocationInfo[] = [
   },
   {
     placeName: 'Baramulla,Jammu & Kashmir',
-    latLng: [34.1990 , 74.3499],
+    latLng: [34.199, 74.3499],
   },
   {
     placeName: 'Kishtwar,Jammu & Kashmir',
@@ -41,11 +41,11 @@ export const majorCitiesLocationInfo: LocationInfo[] = [
   },
   {
     placeName: 'Doda ,Jammu & Kashmir',
-    latLng: [33.1457, 75.5480],
+    latLng: [33.1457, 75.548],
   },
   {
     placeName: 'Jammu',
-    latLng: [32.7266, 74.8570],
+    latLng: [32.7266, 74.857],
   },
 ]
 
