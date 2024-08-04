@@ -1,51 +1,51 @@
 import { LocationInfo } from './types'
 
 export const initialViewState = {
-  latitude: 40.7128,
-  longitude: -74.006,
-  zoom: 11.5,
+  latitude: 34.083656,
+  longitude: 74.797371,
+  zoom: 8,
 }
 
 export const majorCitiesLocationInfo: LocationInfo[] = [
   {
-    placeName: 'Chennai, Tamil Nadu, India',
-    latLng: [13.0827, 80.2707],
+    placeName: 'Srinagar , Jammu & Kashmir',
+    latLng: [34.083656, 74.797371],
   },
   {
-    placeName: 'New York, New York, United States',
-    latLng: [40.7128, -74.006],
+    placeName: 'Ganderbal, Jammu & Kashmir',
+    latLng: [34.2165, 74.7719],
   },
   {
-    placeName: 'London, Greater London, England, United Kingdom',
-    latLng: [51.5074, -0.1278],
+    placeName: 'Budgam, Jammu & Kashmir',
+    latLng: [33.9349, 74.6400],
   },
   {
-    placeName: 'Paris, France',
-    latLng: [48.8566, 2.3522],
+    placeName: 'Awantipora, Jammu & Kashmir',
+    latLng: [33.9218, 75.0139],
   },
   {
-    placeName: 'Berlin, Germany',
-    latLng: [52.52, 13.405],
+    placeName: 'Kulgam, Jammu & Kashmir',
+    latLng: [33.6450, 75.0180],
   },
   {
-    placeName: 'Sydney, New South Wales, Australia',
-    latLng: [-33.8688, 151.2093],
+    placeName: 'Kupwara, Jammu & Kashmir ',
+    latLng: [34.5262, 74.2546],
   },
   {
-    placeName: 'Rio de Janeiro, Brazil',
-    latLng: [-22.9068, -43.1729],
+    placeName: 'Baramulla,Jammu & Kashmir',
+    latLng: [34.1990 , 74.3499],
   },
   {
-    placeName: 'Cape Town, Western Cape, South Africa',
-    latLng: [-33.9249, 18.4241],
+    placeName: 'Kishtwar,Jammu & Kashmir',
+    latLng: [33.3116, 75.7662],
   },
   {
-    placeName: 'Moscow, Russia',
-    latLng: [55.7558, 37.6176],
+    placeName: 'Doda ,Jammu & Kashmir',
+    latLng: [33.1457, 75.5480],
   },
   {
-    placeName: 'Beijing, China',
-    latLng: [39.9042, 116.4074],
+    placeName: 'Jammu',
+    latLng: [32.7266, 74.8570],
   },
 ]
 

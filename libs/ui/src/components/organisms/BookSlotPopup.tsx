@@ -196,7 +196,7 @@ export const BookSlotPopup = ({
         </HtmlLabel>
 
         <HtmlLabel title="Vehicle number" error={errors.vehicleNumber?.message}>
-          <HtmlInput placeholder="KA01AB1234" {...register('vehicleNumber')} />
+          <HtmlInput placeholder="JK01AB1234" {...register('vehicleNumber')} />
         </HtmlLabel>
         <HtmlLabel title="Phone number" error={errors.phoneNumber?.message}>
           <HtmlInput placeholder="+910000000000" {...register('phoneNumber')} />
